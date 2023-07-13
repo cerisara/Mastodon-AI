@@ -1,6 +1,6 @@
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tassili_-_elephant_%28or_Mastodon_-_notice_the_hunters_around_him%29.jpg/320px-Tassili_-_elephant_%28or_Mastodon_-_notice_the_hunters_around_him%29.jpg>
 
-# 🗿 Artificial Intelligence of Mastodon 🔬
+# Artificial Intelligence of Mastodon
 
 This repository provides a most simple web app that helps to bulk follow AI people on the FOSS microblogging service Mastodon. 
 
