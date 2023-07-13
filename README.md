@@ -1,18 +1,16 @@
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tassili_-_elephant_%28or_Mastodon_-_notice_the_hunters_around_him%29.jpg/320px-Tassili_-_elephant_%28or_Mastodon_-_notice_the_hunters_around_him%29.jpg>
 
-# 🗿 Archaeologists of Mastodon 🔬
+# 🗿 Artificial Intelligence of Mastodon 🔬
 
-This repository provides a most simple web app that helps to bulk follow archaeologists on the FOSS microblogging service Mastodon. 
+This repository provides a most simple web app that helps to bulk follow AI people on the FOSS microblogging service Mastodon. 
 
-Click here to access the list: https://stark1tty.github.io/Mastodon-Archaeology/ (Also available via: https://find.sciences.social/)
+Click here to access the list: https://cerisara.github.io/Mastodon-AI/ (Also available via: https://find.sciences.social/)
 
-Users can sign up via: https://forms.gle/QdsUDAZfYZ6aTzYQ9 (preferred) or by emailing nika.shilobod@plymouth.ac.uk.
+Users can sign up by github PR or emailing cerisara@loria.fr.
 
 A work in progress adapted from: https://github.com/trutzig89182/Mastodon-Sociologists
 
 To view and join other academic communities, please visit: [https://github.com/nathanlesage/academics-on-mastodon](https://nathanlesage.github.io/academics-on-mastodon/)
-
-If you are looking for a Mastodon instance for archaeologists, historians and lovers of all things ancient, visit: https://archaeo.social
 
 ---
 
