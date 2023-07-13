@@ -1,4 +1,4 @@
-<img src=https://upload.wikimedia.org/wikipedia/commons/9/92/Text-to-image_woman_underwater.png>
+<img src=https://cdn-uploads.huggingface.co/production/uploads/1676962793510-noauth.jpeg>
 
 # Artificial Intelligence of Mastodon
 
