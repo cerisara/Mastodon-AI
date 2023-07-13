@@ -1,4 +1,4 @@
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tassili_-_elephant_%28or_Mastodon_-_notice_the_hunters_around_him%29.jpg/320px-Tassili_-_elephant_%28or_Mastodon_-_notice_the_hunters_around_him%29.jpg>
+<img src=https://upload.wikimedia.org/wikipedia/commons/9/92/Text-to-image_woman_underwater.png>
 
 # Artificial Intelligence of Mastodon
 
