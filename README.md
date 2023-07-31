@@ -16,4 +16,4 @@ To view and join other academic communities, please visit: [https://github.com/n
 
 # License
 
-The repository can be used under GNU General Public License v3, except the /resources/users.csv and /resources/users-non-academic.csv files, which can only be used with explicit permission by the repository owner.
+The repository can be used under GNU General Public Licese v3, except the /resources/users.csv-file, which is licensed with CC BY-NC 4.0.
